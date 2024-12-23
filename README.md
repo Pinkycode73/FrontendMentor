@@ -23,17 +23,6 @@ Here is a list of the challenges I have worked on so far:
    - Challenge: Create a responsive, accessible QR code component.
    - Live Demo: [QR Code Component](link-to-demo)
 
-2. **Article Preview Component**  
-   - Challenge: Build an article preview component with a collapsible "Read More" button.
-   - Live Demo: [Article Preview](link-to-demo)
-
-3. **Huddle Landing Page**  
-   - Challenge: Design and develop a landing page for a collaboration platform.
-   - Live Demo: [Huddle Landing Page](link-to-demo)
-
-4. **Stats Preview Card**  
-   - Challenge: Create a stats preview card that displays information visually.
-   - Live Demo: [Stats Preview Card](link-to-demo)
 
 *(Add more challenges as you complete them)*
 
