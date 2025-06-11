@@ -25,7 +25,7 @@ Here is a list of the challenges I have worked on so far:
   
 2. **Product preview card component**  
    - Challenge: Create a responsive, accessible Product preview card component.
-   - Live Demo: [QR Code Component](https://pinkycode73.github.io/FrontendMentor/qr-code-component-main/)
+   - Live Demo: [QR Code Component]([https://pinkycode73.github.io/FrontendMentor/qr-code-component-main/](https://pinkycode73.github.io/FrontendMentor/product-preview-card-component-main/))
 
 
 *(Add more challenges as you complete them)*
