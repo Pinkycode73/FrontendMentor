@@ -4,6 +4,7 @@ body{
     align-content: center;
     justify-content: center;
     background-color: hsl(47, 88%, 63%);
+    height: 100vh;
 
 }
 
@@ -13,7 +14,7 @@ main{
     flex-direction: column;
     align-items: center;
     justify-items: center;
-    padding: 2rem;
+    
 }
 .card{
     background-color: white;
