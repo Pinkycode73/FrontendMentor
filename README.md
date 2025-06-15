@@ -26,6 +26,10 @@ Here is a list of the challenges I have worked on so far:
 2. **Product preview card component**  
    - Challenge: Create a responsive, accessible Product preview card component.
    - Live Demo: [Product preview card component](https://pinkycode73.github.io/FrontendMentor/product-preview-card-component-main/)
+  
+3. **Blog preview card**  
+   - Challenge: Create a responsive, accessible Blog preview card.
+   - Live Demo: [Blog preview card](https://pinkycode73.github.io/FrontendMentor/blog-preview-card-main/)
 
 
 *(Add more challenges as you complete them)*
