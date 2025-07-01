@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+  
+  <title>Frontend Mentor | Social links profile</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+  
+</head>
+<body>
+<main>
+  <div class="card-element">
+    <div class="avatar-img">
+    <img src="assets\images\avatar.jpg" alt="avatar">
+    </div>
+  
+    <div class="content-container">
+      <h1>Pinky code</h1>
+      <h2>Eloued, Algeria</h2>
+    </div>
+    <h3>"Front-end developer and web designer"</h3>
+
+    <ul class="skills_container">
+      <li>GitHub</li>
+      <li>Frontend Mentor</li>
+      <li>LinkedIn</li>
+      <li>Twitter</li>
+      <li>Instagram</li>
+    </ul>
+  </div>
+</main>
+</body>
+</html>
+
+
+<style>
+  body{
+    padding: 0;
+    margin: 0;
+  }
+  main{
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #141414;
+    width: 100%;
+    height: 100vh;
+  }
+.card-element{
+  box-sizing: border-box;
+  width: 370px;
+  height: auto;
+  padding: 24px 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #1f1f1f;
+  box-sizing: border-box;
+  border-radius: 16px;
+
+}
+.avatar-img{
+  width: 86px;
+  height: 86px;
+  box-sizing: border-box;
+  border-radius: 50%;
+  background-color: aqua;
+  padding: 0px;
+  overflow: hidden;
+  margin-top: 8px;
+}
+.avatar-img img{
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;  
+}
+.content-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  padding: 16px;
+}
+h1{
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  color: white;
+  font-weight: bold;
+  font-size: 28px;
+  padding: 0px;
+  margin: 0;
+}
+h2{
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  color: #c5f82a;
+  font-size: medium;
+  margin: 0;
+}
+h3{
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  color: white;
+  font-size: medium;
+  font-weight: lighter;
+  padding-bottom: 12px;
+}
+ul{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  width: 100%;
+  margin: 0;
+  padding: 0px 16px;
+}
+li{ 
+  box-sizing: border-box;
+  background-color: #333333;
+  padding: 16px 0px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  color: white;
+  font-weight: bold;
+}
+@media ( max-width : 375px) {
+  .card-element{
+    width: 340px;
+    padding: 16px 16px;
+  }
+}
+</style>
