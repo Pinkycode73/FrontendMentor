@@ -31,8 +31,12 @@ Here is a list of the challenges I have worked on so far:
    - Challenge: Create a responsive, accessible Blog preview card.
    - Live Demo: [Blog preview card](https://pinkycode73.github.io/FrontendMentor/blog-preview-card-main/)
 
+4. **Social links profile**  
+   - Challenge: Create a responsive, accessible Blog preview card.
+   - Live Demo: [Social links profile](https://pinkycode73.github.io/FrontendMentor/social-links-profile-main/)
 
-*(Add more challenges as you complete them)*
+
+
 
 ## How to Use
 
